@@ -1,2 +1,16 @@
-# text-generate-effect
-A cool text effect that fades in text on page load, one by one.
+## Установка зависимостей
+
+
+- поставить зависимости
+
+```bash
+npm install
+```
+
+## Запуск в дев режиме
+
+- по умолчанию проект запустится на [http://localhost:5173](http://localhost:5173)
+
+```bash
+npm run dev
+```
